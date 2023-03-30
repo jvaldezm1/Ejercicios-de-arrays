@@ -3,14 +3,14 @@
 
 using namespace std;
 
-int main() {
+int main() {// se declaran las variables y los grupos (array).
     int salir, si, no;
     int num[100];
     int numero[10];
     int opc, n, suma, mayor = 0, cantidad, i;
     int numeros[] = {1, 2, 3, 4, 5, 6, 9, 7, 8, 12, 45};
 
-    cout << "Bienvenido , elija una de las opciones disponibles" << endl;
+    cout << "Bienvenido , elija una de las opciones disponibles" << endl; // se crea un menu para poder acceder a la diferentes operaciones
     cout << "***  Opcion 1 : Suma de enteros  ***" << endl;
     cout << "***  Opcion 2 : Encontrar numero mayor  *** " << endl;
     cout << "***  Opcion 3 : Invertir las pocisiones de los elementos *** " << endl;
@@ -20,7 +20,7 @@ int main() {
     cout << " Ingrese numero de opcion : " << endl;
     cin >> opc;
 
-    switch (opc) {
+    switch (opc) { // se agrega un switch para la seleccion de los casos.
         case 1 :
 
             for (int i = 0; i <= 10; i++) {
