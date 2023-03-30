@@ -1,0 +1,3 @@
+C:/Users/miran/OneDrive/Escritorio/tarea progra1 , practica array/cmake-build-debug/CMakeFiles/tarea_progra1___practica_array.dir
+C:/Users/miran/OneDrive/Escritorio/tarea progra1 , practica array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/miran/OneDrive/Escritorio/tarea progra1 , practica array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
