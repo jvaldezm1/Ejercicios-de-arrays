@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//jose octavio valdez miranda,    carnet:0909-21-8874
 #include "conio.h"
 
 using namespace std;
@@ -22,7 +22,6 @@ int main() {// se declaran las variables y los grupos (array).
 
     switch (opc) { // se agrega un switch para la seleccion de los casos.
         case 1 :
-
             for (int i = 0; i <= 10; i++) {
                 suma = suma + numeros[i];
             }
@@ -59,7 +58,7 @@ int main() {// se declaran las variables y los grupos (array).
 
         case 4 :
             for (int i = 0; i <= 10; i++) {
-                suma = suma + numeros[i];
+                 suma = suma + numeros[i];
             }
             cout << "la suma de los elementos del vector es : " << suma << endl;
             break;
